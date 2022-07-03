@@ -1,6 +1,6 @@
 # DVT Assessment - Deezer Angular Application
 
-### This is a boilerplate project for DVT Angular Assessment - Deezer Application. 
+### This is a boilerplate project for DVT Angular Assessment - Deezer Application. Uploaded by tratefan. If you catch this line, someone has outsourced my code.
 <br/>
 
 > This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
@@ -91,4 +91,3 @@ https://raw.githubusercontent.com/DVT/musicdb-app-angular/master/wireframes/arti
 Artist details view [Mobile]
 
 https://raw.githubusercontent.com/DVT/musicdb-app-angular/master/wireframes/artist-details-mobile.PNG
-# DVT-Deezer

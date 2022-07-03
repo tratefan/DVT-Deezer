@@ -1,0 +1,12 @@
+<nav class="navbar">
+  <div class="logo-container">
+    <img class="logo" src="../assets/images/deezer-logo.png" alt="logo" />
+    <!-- <h1>Deezerpedia</h1> -->
+  </div>
+  <div class="search-container">
+    <input type="search" (keyup)="search(getValue($event))" id="search" placeholder="Search for artists..."/>
+  </div>
+</nav>
+<section class="main-content">
+  <router-outlet></router-outlet>
+</section>
